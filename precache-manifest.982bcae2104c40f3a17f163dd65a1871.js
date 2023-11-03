@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9da4987ba8ec15ee23c2f853b36a046",
+    "revision": "2745b17eef794081b70b97cfac1ebcf1",
     "url": "/live-pointofsale-frontend/index.html"
   },
   {
-    "revision": "60c9aabba8cfc9f19698",
-    "url": "/live-pointofsale-frontend/static/css/3.d34346ea.chunk.css"
+    "revision": "a01ff37b7f4cb0cf5496",
+    "url": "/live-pointofsale-frontend/static/css/3.36eead04.chunk.css"
   },
   {
-    "revision": "b8eb99213bf35a01d451",
-    "url": "/live-pointofsale-frontend/static/css/main.67dcb44e.chunk.css"
+    "revision": "83a0de99d0a0d05e8a34",
+    "url": "/live-pointofsale-frontend/static/css/main.e4e9bd26.chunk.css"
   },
   {
     "revision": "236ea8e9a32ee807ca2a",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/live-pointofsale-frontend/static/js/14.41581977.chunk.js"
   },
   {
-    "revision": "60c9aabba8cfc9f19698",
+    "revision": "a01ff37b7f4cb0cf5496",
     "url": "/live-pointofsale-frontend/static/js/3.35b033d7.chunk.js"
   },
   {
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/live-pointofsale-frontend/static/js/9.a3190e29.chunk.js"
   },
   {
-    "revision": "b8eb99213bf35a01d451",
-    "url": "/live-pointofsale-frontend/static/js/main.dffe9ec2.chunk.js"
+    "revision": "83a0de99d0a0d05e8a34",
+    "url": "/live-pointofsale-frontend/static/js/main.9ff9874f.chunk.js"
   },
   {
     "revision": "7a7833b5086ed90d30ea",
