@@ -15,6 +15,7 @@
     "classnames": "^2.2.6",
     "date-fns": "^2.11.1",
     "fontello-cli": "^0.5.0",
+    "gh-pages": "^6.0.0",
     "history": "^4.10.1",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
