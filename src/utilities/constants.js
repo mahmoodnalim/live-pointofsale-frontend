@@ -1,4 +1,4 @@
-export const SUPPORT_EMAIL = 'support@emeraldit.com';
+export const SUPPORT_EMAIL = 'mahmoodnalim@gmail.com';
 export const AUTH_LOCAL_STORAGE = 'auth';
 
 export const emailRegex = /^\w+([.-]?\w+)*@\w+([.-]?\w+)*(\.\w{2,3})+$/;

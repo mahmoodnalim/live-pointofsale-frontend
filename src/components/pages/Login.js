@@ -119,7 +119,7 @@ const Login = props => {
                 width={263}
                 display="inline-block"
               >
-                Welcome to EIT POS
+                Welcome to Live Point of Sale
               </Box>
             </div>
             <img src={logo} width="100%" height={250} alt={logo.title} />

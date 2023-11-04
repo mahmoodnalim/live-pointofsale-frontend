@@ -16,8 +16,8 @@ export default function Footer() {
     <FooterContainer>
       <Typography variant="body2" align="center">
         {'Copyright © '}
-        <Link color="inherit" href="https://emeralditsolutions.com/">
-          EmeraldIT
+        <Link color="inherit" href="https://mahmoodnalim.github.io/">
+          Mahmood Nalim
         </Link>{' '}
         {new Date().getFullYear()}
         {'.'}
